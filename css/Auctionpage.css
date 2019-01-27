@@ -1,0 +1,126 @@
+body{
+	background-image: url(./../images/homepage.jpg);
+	font-family: Merriweather;
+	height: 100%;
+	width: 100%;
+}
+#homepage_intro{
+	color: cyan;
+	border: 1px solid cyan;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	/*border-radius: 5%;*/
+}
+#homepage_intro h3{
+	margin: 0px;
+	padding-bottom: 0px;
+	padding-right: 350px;
+}
+#icon:hover {
+	background: green;
+	transition: all 0.3s;
+/*	padding-left: 5px;
+	padding-right: 5px;*/
+}
+#icon{
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 5px;
+	margin-right: 10px;
+	/*border: 1px round red;*/
+}
+#body_div{
+	color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 60px;
+}
+#body_div h1{
+	font-size: 4em;
+}
+#login_info{
+	color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 60px;
+}
+#login_info h5{
+	font-family: 'Cedarville Cursive', cursive;
+}
+#logo{
+	margin-right: 4px;
+}
+hr {
+	height: 1px;
+	margin-left: 200px;
+	background-color: white;
+	border: none;
+	width: 580px;
+}
+.loginbutton {
+	color: rgb(60, 193, 60);
+	border: rgb(60, 193, 60) solid 1px;
+	background: none;
+}
+
+.loginbutton:hover {
+	color: white;
+	background: rgb(60, 193, 60);
+	border: rgb(60, 193, 60);
+}
+
+/*=======================for Auction pages=======================*/
+h2{
+	color: rgb(112, 19, 36);
+	border-color: rgb(112, 19, 36);
+	font-size: 2em;
+	margin-left: 100px;
+	padding-left: 10px;
+	background-color: rgb(255, 0, 131);
+	border-radius: 10px;
+	width: 550px;
+
+}
+div img{
+	size: 50%;
+}
+.card-deck{
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 30px;
+}
+h1{
+	color: rgb(112, 41, 0);
+	font-size: 3em;
+	border-color: rgb(112, 41, 0);
+	margin-left: 100px;
+	padding-left: 10px;
+	background-color: rgb(255, 140, 0);
+	border-radius: 10px;
+	width: 550px;
+}
+#AuctionPoster{
+	background-image: url(./../images/photo-1536821824982-ee7e97e7807d.jpg);
+	width: 100%;
+	height: 250px;
+	padding: 10px;
+}
+div img{
+	max-height: 315px;
+}
+.pricetag{
+	background-color: rgb(0, 150, 17);
+	color: white;
+	margin-top: 10px;
+	margin-left: none;
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+}
+.modaldes{
+	color: rgb(198, 29, 29);	
+}
+.modal-title{
+	color: rgb(24, 150, 38);
+	font-size: 2em;
+}

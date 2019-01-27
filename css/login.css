@@ -1,0 +1,75 @@
+body{
+	background-image: url(./../images/photo-loginupdate.jpg);
+	background-size: cover;
+	font-family: Merriweather;
+	color: white;
+}
+#homepage_intro{
+	color: cyan;
+	border: 1px solid cyan;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	/*border-radius: 5%;*/
+}
+#homepage_intro h3{
+	margin: 0px;
+	padding-bottom: 0px;
+	padding-right: 350px;
+}
+#icon:hover {
+	background: green;
+	transition: all 0.3s;
+/*	padding-left: 5px;
+	padding-right: 5px;*/
+}
+#icon{
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	/*border: 1px round red;*/
+}
+/*<---------------------------------------------------->*/
+
+.container{
+	
+	background: rgba(255, 255, 255, 0.3);
+    margin: auto;
+    width: 360px;
+    padding: 10px;
+    margin-top: 50px;
+
+}
+
+.inputcss{
+	width: 300px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+/*.buttonlogin{
+	margin: auto;
+	margin-top: 20px;
+}*/
+.loginlogo{
+	font-size: 5em;
+	margin: auto;
+	padding-left: 38%;
+}
+
+.loginbutton {
+	color: white;
+	border: rgb(51, 85, 178) solid 1px;
+	background: rgb(51, 85, 178);
+	margin-top: 10px;
+	margin-left: 36.5%;
+}
+
+/*.loginbutton:hover {
+	color: white;
+	background: rgb(60, 193, 60);
+	border: rgb(60, 193, 60);
+}*/
+.loginpagecomponents {
+	color: white;
+}

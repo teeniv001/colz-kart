@@ -1,0 +1,19 @@
+.container{
+	
+	background: rgba(41, 142, 63, 1);
+    margin: auto;
+    width: 450px;
+    padding: 10px;
+
+}
+
+.inputcss{
+	width: 300px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.buttonlogin{
+	margin: auto;
+	margin-top: 20px;
+}
